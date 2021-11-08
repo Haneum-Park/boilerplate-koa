@@ -13,11 +13,5 @@ describe('DBINITIALIZING', () => {
     expect(mongoose.connection instanceof mongoose.Connection, "It's not a Instance of Connection").to.be.true;
     expect(mongoose.connection.readyState).to.equal(1);
   });
-  
-  // it('check mongoose Connection (caramella )', () => {
-  //   expect(mongoose.oceanConnection instanceof mongoose.Connection, "It's not a Instance of Connection").to.be.true;
-  //   expect(mongoose.oceanConnection?.readyState).to.equal(1);
-  // });
-
 });
  
