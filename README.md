@@ -1,7 +1,6 @@
 # boilerplate-koa
-###### node v14.17.0
-###### yarn v1.22.17
 
+**node** : v14.17.0 | **yarn** : v1.22.17 | **Fork By** [snipercodeshell](https://github.com/shellcodesniper)
 
 - Koa 기반 Typescript Boilerplate
 - JWT를 이용한 Token Controller
